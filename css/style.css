@@ -25,3 +25,13 @@ text-align: center;
 .special {
   color: #93a6c1;
 }
+
+.margins {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.pic {
+  padding: 35px;
+  float: left;
+}
